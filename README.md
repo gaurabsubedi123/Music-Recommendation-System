@@ -1,6 +1,5 @@
 <h1>Music Recommendation System</h1>
 
-<hr>
 Our recommendation system is a project that leverages the deep reinforcement learning for the purpose of understanding the user preferences. Here, the preference that we need to consider is if the user skips or listens the song. Here, the Deep Deterministic Policy Gradient(DDPG) algorithm which is a model-free reinforcement learning(RL) method in addition with tensorflow.
 
 <h6>Deep Deterministic Policy Gradient</h6>
